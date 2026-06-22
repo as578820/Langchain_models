@@ -1,5 +1,4 @@
-﻿# Langchain_models
-# LangChain Models
+﻿# LangChain Models
 
 A collection of examples demonstrating how to work with different Large Language Models (LLMs), Chat Models, and Embedding Models using LangChain.
 
